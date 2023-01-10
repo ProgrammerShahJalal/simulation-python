@@ -34,7 +34,8 @@ XX
 
 Mean = np.mean (XX)
 Mean
-
+std = np.std(XX)
+std
 var = np.var(XX)
 var
 
