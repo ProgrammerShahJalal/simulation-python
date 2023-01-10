@@ -10,7 +10,7 @@ from scipy import stats
 n = 180135
 m = 7
 s=5
-np.random.seed(201731)
+np.random.seed(180135)
 
 Z1 = np.zeros((n))
 Z2= np.zeros((n)) 
